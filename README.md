@@ -27,3 +27,4 @@
 - git checkout branch1
 - git branch
 git merge master
+git checkout -b 01_alteracao
