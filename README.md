@@ -26,5 +26,8 @@
 - git branch
 - git checkout branch1
 - git branch
-git merge master
-git checkout -b 01_alteracao
+- git merge master
+- git checkout -b 01_alteracao
+- git switch -c
+- git checkout
+- git merge 01_alteracao
