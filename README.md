@@ -11,7 +11,7 @@
 - git status
 - git add pizzas.txt
 - git commit -m "Alteração das pizzas disponíveis"
-- git push origin master
+- git push -u origin master
 - git pull origin master
 - git log
 - git log --oneline
