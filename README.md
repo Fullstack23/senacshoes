@@ -26,3 +26,4 @@
 - git branch
 - git checkout branch1
 - git branch
+git merge master
